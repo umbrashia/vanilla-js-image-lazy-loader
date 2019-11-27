@@ -1,0 +1,29 @@
+{
+  "name": "vanilla-js-image-lazy-loader",
+  "version": "1.0.0",
+  "description": "image lazy loader based on vanilla-js programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umbrashia/vanilla-js-image-lazy-loader.git"
+  },
+  "keywords": [
+    "vanilla-js-lazy-loader",
+    "javascript-lazy-loader",
+    "image",
+    "lazy",
+    "loader",
+    "typescript-image-lazy",
+    "react-image-lazy-loader",
+    "image-lazy-loader"
+  ],
+  "author": "Shantanu Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/umbrashia/vanilla-js-image-lazy-loader/issues"
+  },
+  "homepage": "https://github.com/umbrashia/vanilla-js-image-lazy-loader#readme"
+}
