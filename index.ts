@@ -1,8 +1,8 @@
-export interface IVanillaLazyImage {
+ interface IVanillaLazyImage {
     selectorName: string;
 }
 
-export class VanillaLazyImage implements IVanillaLazyImage {
+ class VanillaLazyImage implements IVanillaLazyImage {
 
     private _selectorName: string;
 

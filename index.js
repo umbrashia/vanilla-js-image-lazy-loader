@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var VanillaLazyImage = /** @class */ (function () {
     function VanillaLazyImage(selectorName) {
         if (selectorName)
@@ -61,5 +59,4 @@ var VanillaLazyImage = /** @class */ (function () {
     };
     return VanillaLazyImage;
 }());
-exports.VanillaLazyImage = VanillaLazyImage;
 //# sourceMappingURL=index.js.map
