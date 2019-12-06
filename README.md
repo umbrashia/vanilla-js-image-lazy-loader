@@ -30,7 +30,7 @@ Clone or Download all file in your lib(any folder)
     </div>
 </code>
 
-<b>Javascript Code 1 : </b>
+<b>Javascript Code : </b>
 <br/>
 <code>
     new VanillaLazyImage(".blog img.lazy").applyLazyLoader();
