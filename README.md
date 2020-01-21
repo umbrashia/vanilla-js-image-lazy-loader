@@ -30,19 +30,22 @@ Clone or Download all file in your lib(any folder)
     </div>
 </code>
 
-<b>Javascript Code : </b>
+<b>typescript/reactjs/angular based Code : </b>
 <br/>
 <code>
-    new VanillaLazyImage(".blog img.lazy").applyLazyLoader();
+    import {VanillaLazyImage} from 'vanilla-js-image-lazy-loader';
+    const name = new VanillaLazyImage();
 </code>
 <br><br/>
-<b>OR</b>
+<b>OR Core javascript code</b>
 <br/><br/>
 <code>
 
     <script src="vanilla.js"></script>
 
     <script>
+    new VanillaLazyImage(".blog img.lazy").applyLazyLoader(); 
+    // OR
     var vanillaLazyImageObj = new VanillaLazyImage();
     vanillaLazyImageObj.selectorName=".blog img.lazy";
     vanillaLazyImageObj.applyLazyLoader();

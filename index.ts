@@ -1,5 +1,6 @@
  export interface IVanillaLazyImage {
     selectorName: string;
+    applyLazyLoader():void;
 }
 
  export class VanillaLazyImage implements IVanillaLazyImage {
