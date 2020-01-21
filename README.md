@@ -39,9 +39,14 @@ Clone or Download all file in your lib(any folder)
 <b>OR</b>
 <br/><br/>
 <code>
+
+    <script src="vanilla.js"></script>
+
+    <script>
     var vanillaLazyImageObj = new VanillaLazyImage();
     vanillaLazyImageObj.selectorName=".blog img.lazy";
     vanillaLazyImageObj.applyLazyLoader();
+    <script>
 </code>
 
 <!-- and see in the example.py  -->
