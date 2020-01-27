@@ -1,6 +1,6 @@
 {
   "name": "vanilla-js-image-lazy-loader",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "image lazy loader based on vanilla-js programming.",
   "main": "index.js",
   "scripts": {

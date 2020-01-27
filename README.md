@@ -41,7 +41,7 @@ Clone or Download all file in your lib(any folder)
 <br/><br/>
 <code>
 
-    <script src="vanilla.js"></script>
+    <script src="dist/image-lazy-loader-vanilla.js"></script>
 
     <script>
     new VanillaLazyImage(".blog img.lazy").applyLazyLoader(); 
