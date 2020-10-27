@@ -1,6 +1,6 @@
 {
   "name": "vanilla-js-image-lazy-loader",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "image lazy loader based on vanilla-js programming.",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,5 @@
   "bugs": {
     "url": "https://github.com/umbrashia/vanilla-js-image-lazy-loader/issues"
   },
-  "homepage": "https://github.com/umbrashia/vanilla-js-image-lazy-loader#readme"
+  "homepage": "https://umbrashia.github.io/vanilla-js-image-lazy-loader/"
 }

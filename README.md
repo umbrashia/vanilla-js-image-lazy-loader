@@ -3,6 +3,8 @@ This library for loading images as lazy<br/>
 And this library based on Vanilla JS and built from typescript<br/>
 So, there is advantage you can use with javascript, AngularJS-1, Angular2 (or above),ReactJs, VueJs and more<br/>
 
+Please see in the [EXAMPLE / DEMO](https://umbrashia.github.io/vanilla-js-image-lazy-loader/example/index.html) 
+
 <br/><h3>Installation</h3>
 <code>
 npm i vanilla-js-image-lazy-loader
