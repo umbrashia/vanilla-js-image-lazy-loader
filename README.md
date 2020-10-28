@@ -36,7 +36,6 @@ Clone or Download all file in your lib(any folder)
 <br/>
 <code>
     import {VanillaLazyImage} from 'vanilla-js-image-lazy-loader';
-    const name = new VanillaLazyImage();
 </code>
 <br><br/>
 <b>OR Core javascript code</b>
